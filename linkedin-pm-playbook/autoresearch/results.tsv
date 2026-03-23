@@ -1,0 +1,7 @@
+experiment	score	max_score	pass_rate	status	description
+0	39	65	60.0%	baseline	original skill — no changes
+1	46	65	70.8%	keep	fixed story-first ambiguity — STEP 1 now mandatory, no draft before story
+2	58	65	89.2%	keep	added self-critique quality checks to GitHub + comment outputs — EVAL 4 now fires for all output types
+3	60	65	92.3%	keep	relabelled story bank entries to system-level framing + added hard hook rule: first sentence must be system/decision/outcome never industry/company
+4	61	65	93.8%	keep	moved banned-structure check into Step 3 self-critique so it fires at draft time on every post
+5	63	65	96.9%	keep	sharpening question now mandatory even for vivid raw stories — closes EVAL 1 slip on Input 2
